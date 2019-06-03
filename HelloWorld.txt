@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 print("hello world!@");
 hello@
+hdj@
+>>>>>>> features/a
