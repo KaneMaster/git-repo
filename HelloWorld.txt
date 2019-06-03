@@ -1,3 +1,5 @@
-print("hello world!");
-hello
-hdj
+<<<<<<< HEAD
+print("hello world!@");
+hello@
+hdj@
+>>>>>>> features/a
